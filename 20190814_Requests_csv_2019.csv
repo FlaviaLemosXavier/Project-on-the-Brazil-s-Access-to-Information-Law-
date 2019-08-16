@@ -93,7 +93,7 @@ Id do Solicitante,Categoria do Pedido ,Tipo de resposta
 0,Educacao superior,Acesso Negado
 0,Educacao superior,Acesso Concedido
 0,Educacao superior,Acesso Concedido
-0,Educacao à distancia,Acesso Concedido
+0,Educacao a distancia,Acesso Concedido
 0,Educacao superior,Acesso Concedido
 0,Educacao superior,Acesso Concedido
 0,Seguranca publica,Acesso Concedido
@@ -1408,7 +1408,7 @@ Id do Solicitante,Categoria do Pedido ,Tipo de resposta
 0,Seguranca publica,Acesso Concedido
 0,Administracao financeira,Acesso Parcialmente Concedido
 0,Financas,Acesso Concedido
-0,Educacao à distancia,Acesso Negado
+0,Educacao a distancia,Acesso Negado
 0,Vigilancia sanitaria,Acesso Parcialmente Concedido
 0,Financas,Acesso Concedido
 0,Recursos energeticos,Acesso Concedido
@@ -2131,7 +2131,7 @@ Id do Solicitante,Categoria do Pedido ,Tipo de resposta
 0,Relacoes diplomaticas,Acesso Concedido
 0,Educacao basica,Acesso Concedido
 0,Educacao superior,Acesso Concedido
-0,Educacao à distancia,Acesso Concedido
+0,Educacao a distancia,Acesso Concedido
 0,Administracao publica,Acesso Concedido
 0,Legislacao e jurisprudencia,Acesso Concedido
 0,Mercado de trabalho,Acesso Concedido
@@ -9857,7 +9857,7 @@ Id do Solicitante,Categoria do Pedido ,Tipo de resposta
 405221,Participacao e controle social em saude,Acesso Concedido
 405221,Administracao publica,Acesso Concedido
 405221,Economia,Acesso Concedido
-406019,Educacao à distancia,Acesso Concedido
+406019,Educacao a distancia,Acesso Concedido
 406110,Administracao publica,Acesso Concedido
 406902,Administracao publica,Acesso Concedido
 406902,Financas,Acesso Negado
@@ -10752,7 +10752,7 @@ Id do Solicitante,Categoria do Pedido ,Tipo de resposta
 495787,Gestao escolar,Acesso Concedido
 495787,Gestao escolar,Acesso Concedido
 495787,Administracao publica,Acesso Concedido
-496215,Educacao à distancia,Acesso Concedido
+496215,Educacao a distancia,Acesso Concedido
 496215,Educacao basica,Acesso Concedido
 496796,Seguranca publica,Acesso Negado
 496832,Seguranca Nacional,Acesso Concedido
@@ -11218,7 +11218,7 @@ Id do Solicitante,Categoria do Pedido ,Tipo de resposta
 545869,Seguranca publica,Acesso Concedido
 546208,Seguranca publica,Acesso Parcialmente Concedido
 546208,Promocao comercial internacional,Acesso Concedido
-546208,Educacao à distancia,Acesso Concedido
+546208,Educacao a distancia,Acesso Concedido
 546531,Participacao e controle social em saude,Acesso Concedido
 547104,Seguranca Nacional,Acesso Concedido
 547104,Seguranca Nacional,Acesso Concedido
@@ -11809,7 +11809,7 @@ Id do Solicitante,Categoria do Pedido ,Tipo de resposta
 618434,Profissoes e ocupacoes,Acesso Concedido
 618434,Seguranca publica,Acesso Concedido
 618434,Profissoes e ocupacoes,Acesso Concedido
-618434,Educacao à distancia,Acesso Concedido
+618434,Educacao a distancia,Acesso Concedido
 618434,Educacao superior,Acesso Concedido
 618434,Educacao superior,Acesso Concedido
 618434,Educacao superior,Acesso Concedido
@@ -15661,7 +15661,7 @@ Id do Solicitante,Categoria do Pedido ,Tipo de resposta
 830504,Educacao superior,Acesso Concedido
 830504,Administracao financeira,Acesso Concedido
 830504,Participacao e controle social em saude,Acesso Concedido
-830504,Educacao à distancia,Acesso Negado
+830504,Educacao a distancia,Acesso Negado
 830504,Financiamento da educacao,Acesso Concedido
 830504,Profissionais da educacao,Acesso Concedido
 830504,Profissionais da educacao,Acesso Concedido
@@ -17252,7 +17252,7 @@ Id do Solicitante,Categoria do Pedido ,Tipo de resposta
 889815,Administracao publica,Acesso Concedido
 889815,Transporte aquaviario,Acesso Concedido
 889975,Administracao publica,Acesso Concedido
-889975,Educacao à distancia,Acesso Concedido
+889975,Educacao a distancia,Acesso Concedido
 889975,Seguranca publica,Acesso Concedido
 890027,Financas,Acesso Concedido
 890027,Financas,Acesso Negado
@@ -19097,7 +19097,7 @@ Id do Solicitante,Categoria do Pedido ,Tipo de resposta
 949976,Educacao superior,Acesso Concedido
 949976,Educacao superior,Acesso Concedido
 949976,Educacao superior,Acesso Concedido
-949976,Educacao à distancia,Acesso Concedido
+949976,Educacao a distancia,Acesso Concedido
 949976,Administracao publica,Acesso Concedido
 950220,Financas,Acesso Concedido
 950259,Vigilancia sanitaria,Acesso Concedido
@@ -21355,7 +21355,7 @@ Id do Solicitante,Categoria do Pedido ,Tipo de resposta
 1011742,Financas,Acesso Concedido
 1011857,Educacao superior,Acesso Parcialmente Concedido
 1011893,Metodos e meios de ensino e aprendizagem,Acesso Concedido
-1011893,Educacao à distancia,Acesso Concedido
+1011893,Educacao a distancia,Acesso Concedido
 1011946,Participacao e controle social em saude,Acesso Concedido
 1011946,Participacao e controle social em saude,Acesso Parcialmente Concedido
 1011958,Seguranca publica,Acesso Negado
@@ -25428,7 +25428,7 @@ Id do Solicitante,Categoria do Pedido ,Tipo de resposta
 1043213,Vigilancia sanitaria,Acesso Concedido
 1043213,Vigilancia sanitaria,Acesso Concedido
 1043213,Vigilancia sanitaria,Acesso Concedido
-1043221,Educacao à distancia,Acesso Concedido
+1043221,Educacao a distancia,Acesso Concedido
 1043234,Administracao publica,Acesso Concedido
 1043235,Legislacao e jurisprudencia,Acesso Negado
 1043244,Educacao basica,Acesso Concedido
@@ -25527,7 +25527,7 @@ Id do Solicitante,Categoria do Pedido ,Tipo de resposta
 1043731,Transporte rodoviario,Acesso Concedido
 1043739,Educacao superior,Acesso Concedido
 1043740,Financas,Acesso Concedido
-1043751,Educacao à distancia,Acesso Concedido
+1043751,Educacao a distancia,Acesso Concedido
 1043753,Seguranca publica,Acesso Concedido
 1043766,Transporte rodoviario,Acesso Concedido
 1043768,Transporte rodoviario,Acesso Concedido
@@ -26406,7 +26406,7 @@ Id do Solicitante,Categoria do Pedido ,Tipo de resposta
 1047748,Administracao publica,Acesso Concedido
 1047752,Transporte rodoviario,Acesso Concedido
 1047754,Sistema de informacao em saude,Acesso Parcialmente Concedido
-1047755,Educacao à distancia,Acesso Concedido
+1047755,Educacao a distancia,Acesso Concedido
 1047755,Educacao superior,Acesso Concedido
 1047760,Recursos energeticos,Acesso Concedido
 1047760,Recursos energeticos,Acesso Concedido
@@ -26426,7 +26426,7 @@ Id do Solicitante,Categoria do Pedido ,Tipo de resposta
 1047826,Administracao publica,Acesso Concedido
 1047831,Financas,Acesso Concedido
 1047848,Financas,Acesso Concedido
-1047851,Educacao à distancia,Acesso Concedido
+1047851,Educacao a distancia,Acesso Concedido
 1047855,Governo eletronico,Acesso Concedido
 1047856,Profissionais da educacao,Acesso Concedido
 1047863,Justica,Acesso Concedido
@@ -27080,7 +27080,7 @@ Id do Solicitante,Categoria do Pedido ,Tipo de resposta
 1049967,Recursos humanos em saude,Acesso Concedido
 1049973,Participacao e controle social em saude,Acesso Negado
 1049974,Mercado de trabalho,Acesso Concedido
-1049974,Educacao à distancia,Acesso Concedido
+1049974,Educacao a distancia,Acesso Concedido
 1049974,Mercado de trabalho,Acesso Concedido
 1049974,Mercado de trabalho,Acesso Concedido
 1049976,Transito,Acesso Concedido
@@ -27517,7 +27517,7 @@ Id do Solicitante,Categoria do Pedido ,Tipo de resposta
 1051826,Seguranca publica,Acesso Concedido
 1051828,Educacao profissional e tecnologica,Acesso Concedido
 1051829,Educacao superior,Acesso Concedido
-1051845,Educacao à distancia,Acesso Concedido
+1051845,Educacao a distancia,Acesso Concedido
 1051845,Educacao superior,Acesso Concedido
 1051845,Vigilancia sanitaria,Acesso Parcialmente Concedido
 1051847,Economia,Acesso Concedido
@@ -28450,7 +28450,7 @@ Id do Solicitante,Categoria do Pedido ,Tipo de resposta
 1055965,Profissionais da educacao,Acesso Concedido
 1055965,Profissionais da educacao,Acesso Concedido
 1055969,Fiscalizacao do trabalho,Acesso Negado
-1055976,Educacao à distancia,Acesso Concedido
+1055976,Educacao a distancia,Acesso Concedido
 1055982,Participacao e controle social em saude,Acesso Parcialmente Concedido
 1055982,Educacao basica,Acesso Parcialmente Concedido
 1055982,Mercado de trabalho,Acesso Parcialmente Concedido
@@ -28612,7 +28612,7 @@ Id do Solicitante,Categoria do Pedido ,Tipo de resposta
 1056518,Administracao publica,Acesso Concedido
 1056521,Transporte rodoviario,Acesso Concedido
 1056525,Transporte rodoviario,Acesso Concedido
-1056535,Educacao à distancia,Acesso Concedido
+1056535,Educacao a distancia,Acesso Concedido
 1056549,Politica trabalhista,Acesso Concedido
 1056549,Transporte ferroviario,Acesso Concedido
 1056549,Mercado de trabalho,Acesso Concedido
@@ -35840,7 +35840,7 @@ Id do Solicitante,Categoria do Pedido ,Tipo de resposta
 1088588,Educacao superior,Acesso Concedido
 1088588,Educacao superior,Acesso Concedido
 1088588,Assistencia ao estudante,Acesso Concedido
-1088588,Educacao à distancia,Acesso Concedido
+1088588,Educacao a distancia,Acesso Concedido
 1088588,Educacao superior,Acesso Concedido
 1088588,Educacao superior,Acesso Parcialmente Concedido
 1088588,Educacao superior,Acesso Concedido
@@ -37962,7 +37962,7 @@ Id do Solicitante,Categoria do Pedido ,Tipo de resposta
 1097740,Transporte aquaviario,Acesso Concedido
 1097742,Saude ocular,Acesso Concedido
 1097792,Financas,Acesso Concedido
-1097796,Educacao à distancia,Acesso Parcialmente Concedido
+1097796,Educacao a distancia,Acesso Parcialmente Concedido
 1097811,Cidadania ambiental,Acesso Concedido
 1097811,Cidadania ambiental,Acesso Concedido
 1097811,Financas,Acesso Concedido
@@ -38121,7 +38121,7 @@ Id do Solicitante,Categoria do Pedido ,Tipo de resposta
 1098471,Recursos humanos em saude,Acesso Concedido
 1098483,Educacao basica,Acesso Concedido
 1098485,Seguranca publica,Acesso Concedido
-1098487,Educacao à distancia,Acesso Concedido
+1098487,Educacao a distancia,Acesso Concedido
 1098497,Administracao publica,Acesso Concedido
 1098497,Administracao publica,Acesso Concedido
 1098497,Transporte rodoviario,Acesso Concedido
@@ -38728,7 +38728,7 @@ Id do Solicitante,Categoria do Pedido ,Tipo de resposta
 1099893,Administracao publica,Acesso Concedido
 1099893,Administracao publica,Acesso Concedido
 1099895,Seguranca publica,Acesso Concedido
-1099895,Educacao à distancia,Acesso Concedido
+1099895,Educacao a distancia,Acesso Concedido
 1099899,Administracao publica,Acesso Concedido
 1099908,Legislacao e jurisprudencia,Acesso Negado
 1099910,Administracao publica,Acesso Concedido
@@ -39152,7 +39152,7 @@ Id do Solicitante,Categoria do Pedido ,Tipo de resposta
 1100979,Administracao publica,Acesso Concedido
 1100980,Recursos energeticos,Acesso Concedido
 1100980,Cidadania ambiental,Acesso Concedido
-1100985,Educacao à distancia,Acesso Concedido
+1100985,Educacao a distancia,Acesso Concedido
 1100986,Economia,Acesso Concedido
 1100988,Cidadania ambiental,Acesso Concedido
 1100992,Administracao publica,Acesso Concedido
@@ -40760,7 +40760,7 @@ Id do Solicitante,Categoria do Pedido ,Tipo de resposta
 1106931,Educacao superior,Acesso Negado
 1106939,Transito,Acesso Concedido
 1106949,Transito,Acesso Concedido
-1106950,Educacao à distancia,Acesso Concedido
+1106950,Educacao a distancia,Acesso Concedido
 1106957,Financas,Acesso Concedido
 1106959,Transito,Acesso Concedido
 1106962,Transporte aquaviario,Acesso Concedido
@@ -41791,7 +41791,7 @@ Id do Solicitante,Categoria do Pedido ,Tipo de resposta
 1113237,Financas,Acesso Concedido
 1113238,Transporte aquaviario,Acesso Concedido
 1113300,Vigilancia sanitaria,Acesso Concedido
-1113304,Educacao à distancia,Acesso Concedido
+1113304,Educacao a distancia,Acesso Concedido
 1113312,Educacao superior,Acesso Concedido
 1113323,Educacao superior,Acesso Concedido
 1113327,Educacao superior,Acesso Concedido
